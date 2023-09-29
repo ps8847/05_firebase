@@ -1,0 +1,12 @@
+with this feature we can autentuctae the users 
+
+we can give the power to users that they can signup with google email and github anymany more ..
+
+go to authentictaion >>
+
+click on get started
+,, then we will see all the options available 
+
+first we will see >> email/password >> then only enable the frist option >>> then save 
+
+after that in App.js 

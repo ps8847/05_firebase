@@ -1,0 +1,24 @@
+* authentication >> we can use features lke login with gmail dn all other stuff
+* firestore    >>  it has its own database store 
+* cloud storage >> we can store imaegs/videos and other long files format here as well .
+* hosting  >>  we can host our website here.
+
+>> firebase : backend as a service 
+
+
+in paid version of firebase >>> 
+
+		cloud function 
+		ML
+
+
+/////////////////////////////////////
+
+to start with it ...
+
+
+we'll create a account on firebase and after that we will click "go to console" on navbar of it .
+
+after that click on "create new project"
+
+then click on next-next and disable the goofgle analytics feature ,

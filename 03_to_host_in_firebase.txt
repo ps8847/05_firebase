@@ -1,0 +1,25 @@
+npm i -g firebase-tools
+
+after installing with above command >>
+
+simply go to cmd of the project location...
+
+the write the command >>> firebase login 
+
+after login 
+
+write the command >> firebase init
+
+after that type >> y 
+             select >>     >( ) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys      by  spacebar + enter
+
+			 >> after that select >> use an exising project
+			 >> after that type >> build 
+			 >> after that type >> yes
+			 >> after that type > no
+
+			 if will create a unusefull build folder in the react app 
+
+			 ,,,, to overwrie that just type the command  >> npm run build 
+
+			 after when build folder will be ready ,,, just type >> firebase deploy --only hosting

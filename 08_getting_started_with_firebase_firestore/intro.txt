@@ -1,0 +1,4 @@
+here we will get to know that how we can store and retrieve the data from the datastore ...
+
+
+click on cloud firestore >> create database > test mode >

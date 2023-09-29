@@ -1,0 +1,1 @@
+in the authentication tab >> go to signin-methods >> add new provider >> google >>
